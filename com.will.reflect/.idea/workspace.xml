@@ -174,7 +174,7 @@
       <workItem from="1577690652216" duration="2000" />
       <workItem from="1577693834123" duration="4098000" />
       <workItem from="1577756094916" duration="50000" />
-      <workItem from="1579243188867" duration="1028000" />
+      <workItem from="1579243188867" duration="1124000" />
     </task>
     <task id="LOCAL-00001" summary="demo1">
       <created>1579243806560</created>
@@ -204,7 +204,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579244129310</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="demo4">
+      <created>1579244248028</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1579244248028</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -253,7 +260,8 @@
     <MESSAGE value="demo1" />
     <MESSAGE value="demo2" />
     <MESSAGE value="demo3" />
-    <option name="LAST_COMMIT_MESSAGE" value="demo3" />
+    <MESSAGE value="demo4" />
+    <option name="LAST_COMMIT_MESSAGE" value="demo4" />
   </component>
   <component name="WindowStateProjectService">
     <state x="275" y="35" key="#Inspections" timestamp="1577669329877">
@@ -284,10 +292,10 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="413" y="123" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.738@0.0.1366.738" timestamp="1577690594498" />
-    <state x="283" y="0" key="CommitChangelistDialog2" timestamp="1579244127577">
+    <state x="283" y="0" key="CommitChangelistDialog2" timestamp="1579244246620">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="283" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1579244127577" />
+    <state x="283" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1579244246620" />
     <state x="463" y="117" key="FileChooserDialogImpl" timestamp="1579243964202">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
@@ -328,10 +336,10 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="-9" y="8" width="1312" height="715" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1577756148086" />
-    <state x="275" y="102" key="Vcs.Push.Dialog.v2" timestamp="1579244133229">
+    <state x="275" y="102" key="Vcs.Push.Dialog.v2" timestamp="1579244258365">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="275" y="102" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1579244133229" />
+    <state x="275" y="102" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1579244258365" />
     <state x="482" y="154" key="chooseDestDirectoryDialog" timestamp="1577670732230">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
