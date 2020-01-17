@@ -18,6 +18,7 @@ public class ProxyDemo implements InvocationHandler {
         System.out.println(method.getName() + "方法开始执行");
         Object result = method.invoke(object, args);
         System.out.println(method.getName() + "方法执行完毕");
+        System.out.println("456");
         return result;
     }
 }
