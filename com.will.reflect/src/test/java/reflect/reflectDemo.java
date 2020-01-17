@@ -29,6 +29,9 @@ public class reflectDemo {
         Object o = clazz.newInstance();
         method.invoke(o);
         System.out.println("456");
+        System.out.println("ff");
+        System.out.println("qwe");
+        System.out.println("dd");
 
     }
 }
