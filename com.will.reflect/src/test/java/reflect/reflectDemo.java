@@ -28,7 +28,7 @@ public class reflectDemo {
         //4执行方法
         Object o = clazz.newInstance();
         method.invoke(o);
-        System.out.println("123");
+        System.out.println("456");
 
     }
 }
